@@ -54,7 +54,7 @@ const pintarTareas = () => {
   if (Object.values(tareas).length === 0) {
     listaTarea.innerHTML = `
     <div class="alert alert-dark text-center">
-      No hay tareas pendientes 😍
+      No hay tareas pendientes 🙌
     </div>
     `
     return;
